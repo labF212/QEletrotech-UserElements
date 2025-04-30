@@ -7,7 +7,7 @@
 ## 📁 Como adicionar novos elementos
 
 1. No QElectroTech, vá até ao menu **Colecções**.
-2. Escolha **Colecção do Utilizador**.
+2. Escolha **Colecção do Utilizador** ou **Colecção da Companhia**.
 3. Clique em **Abrir a pasta correspondente**.
 
 Essa pasta contém os elementos personalizados — são basicamente ficheiros de desenho (`.elmt`) organizados em pastas.
