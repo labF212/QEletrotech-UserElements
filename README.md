@@ -1,11 +1,32 @@
-# QEletrotech-UserElements
-Desenho de Modelos de Equipamentos não existentes na Biblioteca do QEletrotech
+⚙️ QEletrotech-UserElements
 
-Para adicionar este modelos, vá ao menu Colecções --> Escolha colecção do Utilizador e escolha --> Abrir a pasta correspondente.
-Desta forma sabe onde colocar estas bibliotecas, que nada mais são ficheiros (desenhos) e pastas.
-Copie os ficheiros para essa pasta.
-Se desejar alterar a configuração e a ordem dos elementos edite os ficheiros qet-directory. Este ficheiro pertmite fazer a tradução do nome.
-Para alterar a ordem das pastas altere o nome das mesmas e coloque a numeração.
-Exemplo: 30_Arduino. Significa que irá aparecer na 3ª posição com o nome Arduino.
+Desenho de modelos de equipamentos personalizados para o QElectroTech, que não estão presentes na biblioteca padrão do software.
 
-https://github.com/labF212/QEletrotech-UserElements/blob/main/Screenshot_20250430_155403.png
+Exemplo de elementos personalizados
+📁 Como adicionar novos elementos
+
+    No QElectroTech, vá até o menu Coleções.
+
+    Escolha Coleção do Utilizador.
+
+    Clique em Abrir a pasta correspondente.
+
+Essa pasta contém os elementos personalizados — são basicamente arquivos de desenho (.elmt) organizados em pastas.
+➕ Adicionando novos elementos
+
+    Copie os arquivos e pastas desejados para essa pasta de "Coleção do Utilizador".
+
+    Ao reiniciar o QElectroTech, os novos elementos estarão disponíveis.
+
+📝 Personalização
+Nome e ordem dos elementos
+
+    Para alterar a ordem de exibição das pastas, renomeie-as com um prefixo numérico:
+
+        Exemplo: 30_Arduino → aparecerá como Arduino, na terceira posição da lista.
+
+Tradução de nomes
+
+    Para editar os nomes exibidos (e traduzir se necessário), edite o arquivo qet-directory.
+
+        Esse arquivo permite definir os nomes visíveis na interface do QElectroTech.
