@@ -31,12 +31,6 @@ Essa pasta contém os elementos personalizados — são basicamente ficheiros de
 
 ---
 
-## 📄 Licença
-
-Este repositório é de uso livre e está sob a licença [MIT](./LICENSE).
-
----
-
 # ⚙️ QEletrotech-UserElements (English)
 
 **Design of custom equipment models for QElectroTech**, not included in the software’s default library.
@@ -70,7 +64,4 @@ This folder contains custom elements — essentially drawing files (`.elmt`) org
 
 ---
 
-## 📄 License
-
-This repository is open for use under the [MIT License](./LICENSE).
 
