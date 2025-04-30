@@ -1,0 +1,14 @@
+<definition width="50" height="50" link_type="simple" hotspot_x="25" hotspot_y="25" version="0.51" type="element" orientation="dyyy">
+    <uuid uuid="{cbeb7f58-5579-43dc-bb09-a37978ae030c}"/>
+    <names>
+        <name lang="pt">alveolo preto</name>
+        <name lang="en">alveoulus black</name>
+    </names>
+    <informations></informations>
+    <description>
+        <circle x="-20" y="-20" antialias="false" diameter="40" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <circle x="-10" y="-10" antialias="false" diameter="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
+        <input x="15" y="-25" rotate="true" text="_" tagg="label" size="9"/>
+        <terminal x="0" y="0" orientation="n"/>
+    </description>
+</definition>

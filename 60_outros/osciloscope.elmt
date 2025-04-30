@@ -1,0 +1,29 @@
+<definition hotspot_y="15" width="60" version="0.100.0" hotspot_x="29" link_type="simple" type="element" height="30">
+    <uuid uuid="{aa3d8a21-e9bd-45cd-96ea-4fbd19cfbb07}"/>
+    <names>
+        <name lang="ar">فولتمتر أفقي</name>
+        <name lang="cs">Voltmetr, vodorovný</name>
+        <name lang="de">Voltmeter waagerecht</name>
+        <name lang="el">Βολτόμετρο οριζόντιο</name>
+        <name lang="en">Osciloscope</name>
+        <name lang="es">Voltímetro horizontal</name>
+        <name lang="fr">Voltmètre horizontal</name>
+        <name lang="pl">Woltomierz (poziomo)</name>
+        <name lang="pt">Osciloscópio</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="1" x="9" uuid="{199415a8-943d-438f-82d3-c93b9bbcb186}" text_from="ElementInfo" rotation="0" frame="false" y="-26">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end2="none" length2="1.5" y1="0" end1="none" x2="21" length1="1.5" y2="0" x1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" length2="1.5" y1="0" end1="none" x2="-10" length1="1.5" y2="0" x1="-21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" antialias="true" diameter="20"/>
+        <text text="~" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-3" rotation="0" color="#000000" y="5"/>
+        <terminal name="" orientation="w" x="-21" uuid="{09152700-11a9-4b61-a5f8-18484dc960cd}" y="0" type="Generic"/>
+        <terminal name="" orientation="e" x="21" uuid="{21a8d295-ad55-48a2-9ae5-0daf117e7d9f}" y="0" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,26 @@
+<definition link_type="simple" version="0.90" hotspot_y="44" width="30" height="90" hotspot_x="15" type="element">
+    <uuid uuid="{7a5e4ab7-6c87-474c-8cb2-107005d017c8}"/>
+    <names>
+        <name lang="fr">Borne (continuité)</name>
+        <name lang="en">Terminal (feed-through)</name>
+        <name lang="hu">Sorkapocs átmenő</name>
+        <name lang="es">Clema (introducción atravesada)</name>
+        <name lang="pl">Zacisk</name>
+        <name lang="cs">Svorka průchozí</name>
+        <name lang="de">Klemme (Durchgang)</name>
+    </names>
+    <elementInformations/>
+    <informations/>
+    <description>
+        <dynamic_text y="14" x="-11.5" frame="false" uuid="{9dcc3803-f17a-4976-961b-95b10ee5629b}" font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="true" rotation="270" Valignment="AlignTop" Halignment="AlignLeft" z="1" text_from="ElementInfo" text_width="-1">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle y="-33" style="line-style:normal;line-weight:thin;filling:none;color:black" x="-3" antialias="false" diameter="6"/>
+        <rect ry="0" y="-40" style="line-style:normal;line-weight:hight;filling:none;color:black" x="-10" antialias="false" rx="0" width="20" height="80"/>
+        <rect ry="0" y="-20" style="line-style:normal;line-weight:thin;filling:none;color:black" x="-8" antialias="false" rx="0" width="16" height="40"/>
+        <circle y="27" style="line-style:normal;line-weight:thin;filling:none;color:black" x="-3" antialias="false" diameter="6"/>
+        <terminal y="40" x="0" name="" uuid="{a37df044-4ec8-46d7-96ce-ea4453ef0287}" orientation="s" type="Generic"/>
+        <terminal y="-40" x="0" name="" uuid="{6cfed9ac-731b-4284-9c28-c4db04eec8f8}" orientation="n" type="Generic"/>
+    </description>
+</definition>

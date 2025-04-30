@@ -1,0 +1,53 @@
+<definition link_type="simple" hotspot_y="25" version="0.90" width="60" height="60" hotspot_x="23" type="element">
+    <uuid uuid="{94c1d6b8-5790-4e64-914c-8a4f4cf2f8e1}"/>
+    <names>
+        <name lang="en">Optic sensor (NO)</name>
+        <name lang="fr">Capteur optique  (NO)</name>
+        <name lang="es">Sensor óptico 3 terminales NA</name>
+        <name lang="ar">حسّاس بصري (NO)</name>
+        <name lang="nl">Fotocel 2 (NC)</name>
+        <name lang="pl">Czujnik optyczny trójprzewodowy, zwierny</name>
+        <name lang="cs">Optický snímač NO 3 vodiče</name>
+        <name lang="de">Lichtsensor 3-Leiter Schliesser</name>
+        <name lang="it">Sensore ottico (NC)</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-9" y1="-6" end2="triangle" length1="1.5" x2="-4" length2="0.2" end1="none" y2="-10"/>
+        <text y="14" x="-16" color="#000000" text="-" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <dynamic_text y="-42.1317" x="-31.1317" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{40ed1249-c02d-4f1e-a9c3-9f6ce2c92ca4}" keep_visual_rotation="false" rotation="315" Valignment="AlignTop" Halignment="AlignLeft" z="2" text_from="ElementInfo" text_width="-1">
+            <text/>
+            <info_name>function</info_name>
+        </dynamic_text>
+        <dynamic_text y="-6" x="46" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{c2b8222e-aa1f-48a3-8a8a-944337366242}" keep_visual_rotation="false" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" z="3" text_from="ElementInfo" text_width="-1">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" closed="false" x1="-3" y1="1" x3="0" x2="0" y3="13" y2="8"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y1="-2" end2="none" length1="1.5" x2="0" length2="1.5" end1="none" y2="1"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="10" y1="-10" end2="triangle" length1="1.5" x2="7" length2="0.2" end1="none" y2="-13"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="8" y1="-9" end2="triangle" length1="1.5" x2="5" length2="0.2" end1="none" y2="-12"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" closed="false" x4="12" x1="12" y1="-3" x3="5" x2="12" y3="-6" y4="-3" y2="-9"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-1" y1="-6" end2="none" length1="1.5" x2="5" length2="1.5" end1="none" y2="-6"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="12" y1="-6" end2="none" length1="1.5" x2="18" length2="1.5" end1="none" y2="-6"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="5" y1="-9" end2="none" length1="1.5" x2="5" length2="1.5" end1="none" y2="-3"/>
+        <text y="23" x="-14" color="#000000" text="BLU" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="23" x="0" color="#000000" text="BLA" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="23" x="17" color="#000000" text="BRW" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y1="30" end2="none" length1="1.5" x2="0" length2="1.5" end1="none" y2="16"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" antialias="false" x1="15" y1="30" end2="none" length1="1.5" x2="15" length2="1.5" end1="none" y2="16"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" antialias="false" x1="-15" y1="30" end2="none" length1="1.5" x2="-15" length2="1.5" end1="none" y2="16"/>
+        <rect y="-15" ry="0" x="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" width="40" height="31"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-18" y1="-6" end2="none" length1="1.5" x2="-3" length2="1.5" end1="none" y2="-6"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-11" y1="-6" end2="none" length1="1.5" x2="-11" length2="1.5" end1="none" y2="-3"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-13" y1="-6" end2="none" length1="1.5" x2="-18" length2="1.5" end1="none" y2="-10"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" closed="false" x4="5" x1="5" y1="-18" x3="13" x5="5" x6="5" x2="9" y3="-18" y5="-18" y4="-18" y2="-23" y6="-18"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" closed="false" x4="-14" x1="-14" y1="-23" x3="-10" x5="-14" x2="-6" y3="-18" y5="-23" y4="-23" y2="-23"/>
+        <text y="13" x="12" color="#000000" text="+" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <terminal y="30" x="0" name="" uuid="{160575cf-1bd1-4f09-ad83-7d25e491aed8}" orientation="s" type="Generic"/>
+        <terminal y="30" x="15" name="" uuid="{f8687401-5572-4e42-8d3c-77746a60fd02}" orientation="s" type="Generic"/>
+        <terminal y="30" x="-15" name="" uuid="{557d8ede-34a1-4c65-a356-0c975696bd23}" orientation="s" type="Generic"/>
+    </description>
+</definition>

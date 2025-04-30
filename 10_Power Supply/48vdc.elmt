@@ -1,0 +1,78 @@
+<definition link_type="simple" version="0.100.0" hotspot_y="39" width="100" height="80" hotspot_x="30" type="element">
+    <uuid uuid="{a2eda0c4-1ec9-4b31-97fb-c1283fab4cf6}"/>
+    <names>
+        <name lang="hu">48V DC tápegység 1 fázis</name>
+        <name lang="cs">Napájecí zdroj AC/DC 48V</name>
+        <name lang="pt">Fonte alimentação 48Vdc</name>
+        <name lang="en">48V DC supply one phase</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference_auxiliary4" show="1"/>
+        <elementInformation name="label" show="1"/>
+        <elementInformation name="function" show="1"/>
+        <elementInformation name="manufacturer_reference_auxiliary3" show="1"/>
+        <elementInformation name="machine_manufacturer_reference_auxiliary2" show="1"/>
+        <elementInformation name="plant" show="1"/>
+        <elementInformation name="manufacturer_auxiliary2" show="1"/>
+        <elementInformation name="manufacturer" show="1"/>
+        <elementInformation name="quantity" show="1"/>
+        <elementInformation name="machine_manufacturer_reference" show="1"/>
+        <elementInformation name="manufacturer_auxiliary1" show="1"/>
+        <elementInformation name="manufacturer_reference" show="1"/>
+        <elementInformation name="unity_auxiliary3" show="1"/>
+        <elementInformation name="comment" show="1"/>
+        <elementInformation name="location" show="1"/>
+        <elementInformation name="description_auxiliary3" show="1"/>
+        <elementInformation name="description_auxiliary4" show="1"/>
+        <elementInformation name="manufacturer_auxiliary4" show="1"/>
+        <elementInformation name="unity" show="1"/>
+        <elementInformation name="manufacturer_reference_auxiliary2" show="1"/>
+        <elementInformation name="supplier" show="1"/>
+        <elementInformation name="description" show="1"/>
+        <elementInformation name="manufacturer_reference_auxiliary1" show="1"/>
+        <elementInformation name="unity_auxiliary4" show="1"/>
+        <elementInformation name="manufacturer_auxiliary3" show="1"/>
+        <elementInformation name="description_auxiliary1" show="1"/>
+        <elementInformation name="designation" show="1"/>
+        <elementInformation name="auxiliary2" show="1"/>
+        <elementInformation name="unity_auxiliary1" show="1"/>
+        <elementInformation name="description_auxiliary2" show="1"/>
+        <elementInformation name="auxiliary4" show="1"/>
+        <elementInformation name="auxiliary1" show="1"/>
+        <elementInformation name="unity_auxiliary2" show="1"/>
+        <elementInformation name="auxiliary3" show="1"/>
+    </elementInformations>
+    <informations/>
+    <description>
+        <text y="-7" x="-8" color="#000000" text="AC 1~" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <circle y="-32.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="47.5" antialias="false" diameter="5"/>
+        <text y="24" x="29" color="#000000" text="-" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-19" x="-11" color="#000000" text="L" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="33" y1="30" end2="none" length1="1.5" x2="47" length2="1.5" end1="none" y2="30"/>
+        <text y="12.3645" x="25.4871" color="#000000" text="28V DC" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="13" y1="30" end2="none" length1="1.5" x2="27" length2="1.5" end1="none" y2="30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-13" y1="30" end2="none" length1="1.5" x2="7" length2="1.5" end1="none" y2="30"/>
+        <text y="24" x="7" color="#000000" text="+" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-19" x="45" color="#000000" text="PE" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-19" x="28" color="#000000" text="N" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <circle y="-32.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="27.5" antialias="false" diameter="5"/>
+        <circle y="27.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="7.5" antialias="false" diameter="5"/>
+        <circle y="27.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="27.5" antialias="false" diameter="5"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" closed="false" x4="-13" x1="-13" y1="30" x3="-25" x5="-13" x6="-13" y3="-29.8785" x2="-25" y5="-29.8785" y4="-29.8785" y2="30" y6="-29.8785"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" closed="false" x4="53" x1="53" y1="-30.1383" x3="65" x5="53" x6="48" y3="30" x2="65" y5="30" y4="30" y2="-30.1383" y6="30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-7.25" y1="-30" end2="none" length1="1.5" x2="27" length2="1.5" end1="none" y2="-30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="33" y1="-30" end2="none" length1="1.5" x2="47" length2="1.5" end1="none" y2="-30"/>
+        <dynamic_text y="-30" x="-65" frame="false" uuid="{2b727eb9-6bbc-41f7-b41e-743d1b2159e2}" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Normál" keep_visual_rotation="true" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" z="20" text_from="ElementInfo" text_width="0">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect ry="0" y="-15" style="line-style:normal;line-weight:thin;filling:none;color:black" x="-10" antialias="false" rx="0" width="60" height="30"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x1="50" y1="-15" end2="none" length1="1.5" x2="-10" length2="1.5" end1="none" y2="15"/>
+        <circle y="-32.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-12.5" antialias="false" diameter="5"/>
+        <terminal y="33" x="30" name="" uuid="{24dc74de-9f1b-4775-bb78-b8ee0ca692a4}" orientation="s" type="Generic"/>
+        <terminal y="-33" x="50" name="" uuid="{b7562295-5661-48b6-b2b4-aca24c56c560}" orientation="n" type="Generic"/>
+        <terminal y="33" x="10" name="" uuid="{69ffe9de-39b7-49f5-a880-403bafc5ac66}" orientation="s" type="Generic"/>
+        <terminal y="-33" x="30" name="" uuid="{8b3be6f9-df19-44d7-aeb3-733a71ec73b0}" orientation="n" type="Generic"/>
+        <terminal y="-33" x="-10" name="" uuid="{d13d41d4-3765-4341-b26b-7f1014da9f1b}" orientation="n" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,61 @@
+<definition link_type="simple" hotspot_y="86" version="0.90" width="120" height="90" hotspot_x="60" type="element">
+    <uuid uuid="{8493a104-c7fc-4f07-bc29-562ebfb99c79}"/>
+    <names>
+        <name lang="en">Conversor P/V</name>
+        <name lang="fr">VEGA Sonde Pression VEGABAR 52 </name>
+        <name lang="cs">Snímač tlaku Vegabar 52</name>
+        <name lang="it">Sonda di pressione VEGABAR 52</name>
+        <name lang="pl">Czujnik ciśnienia Vegabar 52</name>
+        <name lang="pt">Conversor P/V</name>
+        <name lang="nl">Druksensor Vegabar 52</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="supplier" show="1"/>
+        <elementInformation name="label" show="1"/>
+        <elementInformation name="machine_manufacturer_reference" show="1"/>
+        <elementInformation name="quantity" show="1"/>
+        <elementInformation name="plant" show="1"/>
+        <elementInformation name="unity" show="1"/>
+        <elementInformation name="designation" show="1"/>
+        <elementInformation name="manufacturer_reference" show="1"/>
+        <elementInformation name="comment" show="1"/>
+        <elementInformation name="description" show="1"/>
+        <elementInformation name="manufacturer" show="1"/>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text y="-55" x="-17" color="#000000" text="-" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-52" x="11.4062" color="#000000" text="+" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-40" x="-5.54688" color="#000000" text="V" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-30.61" y1="-75.65" end2="none" length1="1.5" x2="-18.61" length2="1.5" end1="none" y2="-75.65"/>
+        <circle y="-60" x="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="10"/>
+        <text y="-38" x="1.90625" color="#000000" text="in" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-38" x="-22.5469" color="#000000" text="s" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-63" x="29" color="#000000" text="BLK" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <ellipse y="-79.7969" x="11.394" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" width="7.2111" height="8.29277"/>
+        <ellipse y="-79.7969" x="31.3944" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" width="7.2111" height="8.29277"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="19" y1="-75.65" end2="none" length1="1.5" x2="31" length2="1.5" end1="none" y2="-75.65"/>
+        <text y="-63" x="7" color="#000000" text="WHI" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10.61" y1="-75.65" end2="none" length1="1.5" x2="10.39" length2="1.5" end1="none" y2="-75.65"/>
+        <text y="-63" x="-19.606" color="#000000" text="BLU" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <ellipse y="-79.7969" x="-38.212" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" width="7.2111" height="8.29277"/>
+        <ellipse y="-79.7969" x="-18.2116" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" width="7.2111" height="8.29277"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-54.61" y1="-75.65" end2="none" length1="1.5" x2="-38.61" length2="1.5" end1="none" y2="-75.65"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="39.39" y1="-75.65" end2="none" length1="1.5" x2="55" length2="1.5" end1="none" y2="-75.65"/>
+        <text y="-63" x="-42.606" color="#000000" text="BRW" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-55" y1="-75.65" end2="none" length1="1.5" x2="-55" length2="1.5" end1="none" y2="-7.10543e-15"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-55" y1="-7.10543e-15" end2="none" length1="1.5" x2="55" length2="1.5" end1="none" y2="-7.10543e-15"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="55" y1="-75" end2="none" length1="1.5" x2="55" length2="1.5" end1="none" y2="-7.10543e-15"/>
+        <text y="-25" x="-45" color="#000000" text="Conversor P/V" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <circle y="-60" x="-40" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="10"/>
+        <circle y="-60" x="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="10"/>
+        <text y="-40" x="-30" color="#000000" text="V" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-52" x="-38" color="#000000" text="+" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-10" x="-50" color="#000000" text="SMC ITV0010-2L" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <terminal y="-79.1" x="-34.606" name="" uuid="{591bd966-09e8-45b6-ba36-0727e3650a22}" orientation="n" type="Generic"/>
+        <terminal y="-79.1" x="35" name="" uuid="{93c7ae0f-e4e7-4400-90cd-0ed34d38ddae}" orientation="n" type="Generic"/>
+        <terminal y="-79.1" x="15" name="" uuid="{3d108cdd-20ad-4afa-a8af-18457572e00b}" orientation="n" type="Generic"/>
+        <terminal y="-79.1" x="-14.606" name="" uuid="{a5ab6c1a-4cd9-441a-b99c-c24944e7012b}" orientation="n" type="Generic"/>
+    </description>
+</definition>

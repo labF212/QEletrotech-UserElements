@@ -1,0 +1,40 @@
+<definition orientation="dyyy" height="40" width="30" version="0.51" type="element" link_type="simple" hotspot_x="5" hotspot_y="34">
+    <uuid uuid="{68677c1f-593d-42a8-ac0e-56305f3ef00b}"/>
+    <names>
+        <name lang="cs">Spojka, zásuvka a zástrčka, vícepólové znázornění</name>
+        <name lang="de">Steckverbindung komplett mit 6 Kontakten</name>
+        <name lang="it">Spina e presa multipolari</name>
+        <name lang="ar">قابس و مقبس متعدّد الأقطاب</name>
+        <name lang="pl">Złącze wielostykowe</name>
+        <name lang="en">Plug 3 multipolar</name>
+        <name lang="fr">Prise et fiche multipolaires</name>
+        <name lang="es">Conector multipolar</name>
+        <name lang="nl">Steker en contact veelpolig</name>
+        <name lang="pt">Ligador 3 fios</name>
+    </names>
+    <informations>EN 60617: 03-03-07</informations>
+    <description>
+        <input x="53" y="-16" rotate="true" text="_" tagg="label" size="8"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="-11" x1="19" end1="none" x2="19" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="-11" x1="9" end1="none" x2="9" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="-11" x1="-1" end1="none" x2="-1" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="0" x1="20" end1="none" x2="20" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="0" x1="10" end1="none" x2="10" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="0" x1="0" end1="none" x2="0" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-21" y2="-30" x1="20" end1="none" x2="20" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-21" y2="-30" x1="10" end1="none" x2="10" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-21" y2="-30" x1="0" end1="none" x2="0" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="-11" x1="21" end1="none" x2="21" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="-11" x1="11" end1="none" x2="11" end2="none" antialias="false"/>
+        <line length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-18" y2="-11" x1="1" end1="none" x2="1" end2="none" antialias="false"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="17" height="6" y="-20" start="-180" width="6" angle="-180" antialias="true"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="7" height="6" y="-20" start="-180" width="6" angle="-180" antialias="true"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" height="6" y="-20" start="-180" width="6" angle="-180" antialias="true"/>
+        <terminal orientation="n" x="0" y="-30"/>
+        <terminal orientation="s" x="0" y="0"/>
+        <terminal orientation="n" x="10" y="-30"/>
+        <terminal orientation="s" x="10" y="0"/>
+        <terminal orientation="n" x="20" y="-30"/>
+        <terminal orientation="s" x="20" y="0"/>
+    </description>
+</definition>

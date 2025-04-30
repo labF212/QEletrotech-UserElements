@@ -1,0 +1,42 @@
+<definition hotspot_y="38" orientation="dyyy" width="130" version="0.5" link_type="simple" hotspot_x="65" type="element" height="140">
+    <uuid uuid="{45721ec1-b1f1-49f5-a7e7-96a431eff923}"/>
+    <names>
+        <name lang="pt">Fonte de Alimentação AC/DC 2 pólos</name>
+        <name lang="de">Netzteil AC/DC 2-polig</name>
+        <name lang="pl">Zasilacz</name>
+        <name lang="en">Power supply AC/DC 2 poles</name>
+        <name lang="fr">Alimentation AC/DC diipolaire</name>
+    </names>
+    <informations>EN 60617: 06-14-03</informations>
+    <description>
+        <text size="5" text="AC 2~" x="-35" y="-8"/>
+        <text size="6" text="V+" x="-44" y="-21"/>
+        <line end2="none" length2="1.5" y1="-31" end1="none" x2="-23" length1="1.5" y2="-31" x1="-37" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="37.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-33.5" diameter="5"/>
+        <circle x="-42.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-33.5" diameter="5"/>
+        <text size="6" text="L1" x="36" y="-20"/>
+        <text size="5" text="DC" x="27" y="15"/>
+        <text size="6" text="L2" x="16" y="-21"/>
+        <circle x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-33.5" diameter="5"/>
+        <text size="6" text="PE" x="-4" y="-21"/>
+        <text size="6" text="V-" x="-25" y="-21"/>
+        <circle x="17.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-33.5" diameter="5"/>
+        <input size="8" text="Fonte de Alimentação&#xa;      Traco Power&#xa;     TMX-035-124&#xa;      24VDC 1,5A       &#xa;" rotate="true" x="-58" tagg="label" y="76.5"/>
+        <line end2="none" length2="1.5" y1="-31" end1="none" x2="-3" length1="1.5" y2="-31" x1="-17" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" length2="1.5" y1="-31" end1="none" x2="17" length1="1.5" y2="-31" x1="3" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" length2="1.5" y1="-31" end1="none" x2="37" length1="1.5" y2="-31" x1="23" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect width="80" x="-40" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" y="-16" height="35"/>
+        <line end2="none" length2="1.5" y1="-16" end1="none" x2="-40" length1="1.5" y2="19" x1="40" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <circle x="-22.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-33.5" diameter="5"/>
+        <line end2="none" length2="1.5" y1="-31" end1="none" x2="-60" length1="1.5" y2="-31" x1="-43" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" length2="1.5" y1="-31" end1="none" x2="-60" length1="1.5" y2="99" x1="-60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" length2="1.5" y1="99" end1="none" x2="60" length1="1.5" y2="99" x1="-60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" length2="1.5" y1="99" end1="none" x2="60" length1="1.5" y2="-31" x1="60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" length2="1.5" y1="-31" end1="none" x2="43" length1="1.5" y2="-31" x1="60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal orientation="n" x="0" y="-34"/>
+        <terminal orientation="n" x="-20" y="-34"/>
+        <terminal orientation="n" x="20" y="-34"/>
+        <terminal orientation="n" x="40" y="-34"/>
+        <terminal orientation="n" x="-40" y="-34"/>
+    </description>
+</definition>

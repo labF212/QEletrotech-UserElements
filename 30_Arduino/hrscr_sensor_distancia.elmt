@@ -1,0 +1,59 @@
+<definition link_type="simple" hotspot_y="32" version="0.90" width="100" height="70" hotspot_x="32" type="element">
+    <uuid uuid="{9c8404b4-1ca7-41e0-8b15-84aa7bf2977a}"/>
+    <names>
+        <name lang="en">HR-SC04 sensor</name>
+        <name lang="hu">HR-SC04 sensor</name>
+        <name lang="cs">HR-SC04 sensor</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"/>
+        <elementInformation name="plant" show="1"/>
+        <elementInformation name="comment" show="1"/>
+        <elementInformation name="manufacturer_reference" show="1"/>
+        <elementInformation name="designation" show="1"/>
+        <elementInformation name="supplier" show="1"/>
+        <elementInformation name="label" show="1"/>
+        <elementInformation name="machine_manufacturer_reference" show="1"/>
+        <elementInformation name="unity" show="1"/>
+        <elementInformation name="description" show="1"/>
+        <elementInformation name="quantity" show="1"/>
+    </elementInformations>
+    <informations/>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="47" y1="30" end2="none" length1="1.5" x2="61" length2="1.5" end1="none" y2="30"/>
+        <circle y="23.75" x="-26.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2.5"/>
+        <circle y="-15" x="40" style="line-style:normal;line-weight:normal;filling:black;color:gray" antialias="false" diameter="20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-7" y1="30" end2="none" length1="1.5" x2="7" length2="1.5" end1="none" y2="30"/>
+        <text y="-15" x="7" color="#000000" text="4.000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <circle y="23.75" x="59.25" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="21" y1="30" end2="none" length1="1.5" x2="41" length2="1.5" end1="none" y2="30"/>
+        <circle y="-26.25" x="59.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2.5"/>
+        <text y="24" x="20" color="#000000" text="Echo" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="24" x="-17" color="#000000" text="Vcc" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="24" x="41" color="#000000" text="GND" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <circle y="27.5" x="42.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="5"/>
+        <circle y="27.5" x="-12.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="33" y1="30" end2="none" length1="1.5" x2="47" length2="1.5" end1="none" y2="30"/>
+        <text y="0" x="5" color="#000000" text="HC-SR04" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="13" y1="30" end2="none" length1="1.5" x2="27" length2="1.5" end1="none" y2="30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-13" y1="30" end2="none" length1="1.5" x2="7" length2="1.5" end1="none" y2="30"/>
+        <text y="24" x="3" color="#000000" text="Trig" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <circle y="27.5" x="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="5"/>
+        <circle y="27.5" x="27.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="5"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" closed="false" x4="53" x1="50" y1="-30" x3="65" x5="53" x6="48" x2="65" y3="30" y5="30" y4="30" y2="-30" y6="30"/>
+        <dynamic_text y="-30" x="-65" frame="false" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0,Normál" uuid="{2b727eb9-6bbc-41f7-b41e-743d1b2159e2}" keep_visual_rotation="true" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" z="20" text_from="ElementInfo" text_width="0">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle y="-15" x="-22" style="line-style:normal;line-weight:normal;filling:black;color:gray" antialias="false" diameter="20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="50" y1="-30" end2="none" length1="1.5" x2="-30" length2="1.5" end1="none" y2="-30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-30" y1="-30" end2="none" length1="1.5" x2="-30" length2="1.5" end1="none" y2="30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10" y1="30" end2="none" length1="1.5" x2="-30" length2="1.5" end1="none" y2="30"/>
+        <ellipse y="-24" x="3" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" width="30" height="14"/>
+        <circle y="-26.25" x="-26.25" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2.5"/>
+        <terminal y="33" x="30" name="" uuid="{24dc74de-9f1b-4775-bb78-b8ee0ca692a4}" orientation="s" type="Generic"/>
+        <terminal y="33" x="10" name="" uuid="{69ffe9de-39b7-49f5-a880-403bafc5ac66}" orientation="s" type="Generic"/>
+        <terminal y="33" x="45" name="" uuid="{b2407ec6-be58-4989-a7b0-4939ff6bd655}" orientation="s" type="Generic"/>
+        <terminal y="33" x="-10" name="" uuid="{1b3dc01f-fa58-4eed-a3a7-e70a43141999}" orientation="s" type="Generic"/>
+    </description>
+</definition>

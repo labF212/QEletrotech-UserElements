@@ -1,0 +1,65 @@
+<definition link_type="simple" hotspot_y="45" version="0.90" width="90" height="90" hotspot_x="26" type="element">
+    <uuid uuid="{a3c3cdd8-7f0c-4d16-a77a-f61f04aff444}"/>
+    <names>
+        <name lang="en">Relay DC 3 NO</name>
+        <name lang="fr">Relais DC 3 NO</name>
+        <name lang="ro">Releu DC 3 NO</name>
+        <name lang="pl">Przekaźnik DC 3 NO</name>
+        <name lang="cs">Relé DC 3 NO</name>
+        <name lang="de">Relais DC 3 NO</name>
+        <name lang="it">Relè DC 3 NO</name>
+    </names>
+    <elementInformations/>
+    <informations>Angelescu Constantin
+titus0818@yahoo.com</informations>
+    <description>
+        <text y="20" x="47" color="#000000" text="5 6" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <dynamic_text y="-20.95" x="48" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{a01496f8-c0a9-44da-b248-ff489d1d6be7}" keep_visual_rotation="true" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" z="1" text_from="ElementInfo" text_width="-1">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text y="-20.95" x="61.2296" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{a01496f8-c0a9-44da-b248-ff489d1d6be7}" keep_visual_rotation="true" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" z="1" text_from="ElementInfo" text_width="-1">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text y="20" x="32.5" color="#000000" text=" 3 4" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x4="33.2704" x1="33.2704" y1="-6.46065" x3="34.9521" x5="33.2704" x2="33.2704" y3="-5.49203" y5="-6.46065" y4="-6.46065" y2="-4.28123"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x4="46.5" x1="46.5" y1="-6.46065" x3="48.1817" x5="46.5" x2="46.5" y3="-5.49203" y5="-6.46065" y4="-6.46065" y2="-4.28123"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x4="37.8284" x1="37.8284" y1="-6.64699" x3="36.3612" x5="37.8284" x2="37.8284" y3="-5.36104" y5="-6.64699" y4="-6.64699" y2="-4.50374"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x4="51.058" x1="51.058" y1="-6.64699" x3="49.5908" x5="51.058" x2="51.058" y3="-5.36104" y5="-6.64699" y4="-6.64699" y2="-4.50374"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="46.5" y1="-4.45455" end2="none" length1="1.5" x2="46.5" length2="1.5" end1="none" y2="19.4442"/>
+        <rect y="-19" ry="0" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" width="20" height="40"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y1="-29" end2="none" length1="1.5" x2="0" length2="1.5" end1="none" y2="-19"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="50.9225" y1="-4.28123" end2="none" length1="1.5" x2="50.9225" length2="1.5" end1="none" y2="-2.10182"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="50.9225" y1="-2.10182" end2="none" length1="1.5" x2="55.3451" length2="1.5" end1="none" y2="-2.10182"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y1="30" end2="none" length1="1.5" x2="0" length2="1.5" end1="none" y2="21"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-15" y1="17.4837" end2="none" length1="1.5" x2="-15" length2="1.5" end1="none" y2="5.55349"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="55.3451" y1="-2.29025" end2="none" length1="1.5" x2="55.3451" length2="1.5" end1="none" y2="19.4606"/>
+        <text y="-7" x="45.2296" color="#000000" text="NO" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="14" y1="-4.42222" end2="none" length1="1.5" x2="14" length2="1.5" end1="none" y2="-15.5333"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-15" y1="5" end2="none" length1="1.5" x2="14" length2="1.5" end1="none" y2="-4"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x4="20.0027" x1="20.0027" y1="-6.46065" x3="21.6844" x5="20.0027" x2="20.0027" y3="-5.49202" y5="-6.46065" y4="-6.46065" y2="-4.28123"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="20.0027" y1="-4.45876" end2="none" length1="1.5" x2="20.0027" length2="1.5" end1="none" y2="18.577"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="33.2704" y1="-4.45455" end2="none" length1="1.5" x2="33.2704" length2="1.5" end1="none" y2="19.4442"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x4="24.5607" x1="24.5607" y1="-6.64699" x3="22.9365" x5="24.5607" x2="24.5607" y3="-5.3022" y5="-6.64699" y4="-6.64699" y2="-4.40568"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="24.4253" y1="-4.28123" end2="none" length1="1.5" x2="24.4253" length2="1.5" end1="none" y2="-2.10182"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="24.4253" y1="-1.66593" end2="none" length1="1.5" x2="28.8478" length2="1.5" end1="none" y2="-1.66593"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="28.8478" y1="-1.85674" end2="none" length1="1.5" x2="28.8478" length2="1.5" end1="none" y2="19.4632"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="37.6929" y1="-4.28123" end2="none" length1="1.5" x2="37.6929" length2="1.5" end1="none" y2="-2.10182"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="37.6929" y1="-2.10182" end2="none" length1="1.5" x2="42.1155" length2="1.5" end1="none" y2="-2.10182"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="42.1155" y1="-2.29025" end2="none" length1="1.5" x2="42.1155" length2="1.5" end1="none" y2="19.4606"/>
+        <text y="-7" x="19" color="#000000" text="NO" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-7" x="32" color="#000000" text="NO" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-25" x="-20" color="#000000" text="A1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="35" x="-20" color="#000000" text="A2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="20" x="19" color="#000000" text=" 1 2" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <terminal y="20.1282" x="55.3451" name="" uuid="{34062a54-d0fb-4cc8-8540-0a57f5409a2f}" orientation="s" type="Generic"/>
+        <terminal y="20.1282" x="46.5" name="" uuid="{56f52cd0-1607-424d-9a63-ff1b3ddb809b}" orientation="s" type="Generic"/>
+        <terminal y="20.1282" x="28.8478" name="" uuid="{3f88fd80-cc20-49a3-80f8-36e6fe873843}" orientation="s" type="Generic"/>
+        <terminal y="-29" x="0" name="" uuid="{778aeae0-a5f2-4d4c-9fe6-da75fe8333be}" orientation="n" type="Generic"/>
+        <terminal y="30" x="0" name="" uuid="{549828cc-1dd3-4e52-b725-172739a9ee44}" orientation="s" type="Generic"/>
+        <terminal y="20.1282" x="20.0027" name="" uuid="{49ec766f-7001-4399-9a6a-c3ae99b9b92d}" orientation="s" type="Generic"/>
+        <terminal y="20.1282" x="42.1155" name="" uuid="{ebe71aec-abbc-4d3f-9163-868d54703e55}" orientation="s" type="Generic"/>
+        <terminal y="20.1282" x="33.2704" name="" uuid="{4c1d0033-4b90-4298-a22f-db61e06537bd}" orientation="s" type="Generic"/>
+    </description>
+</definition>

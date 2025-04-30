@@ -1,0 +1,53 @@
+<definition link_type="simple" hotspot_y="40" version="0.80" width="80" height="90" hotspot_x="35" type="element">
+    <uuid uuid="{ecf3c203-d9a4-42ec-952c-221e01bc1f6d}"/>
+    <names>
+        <name lang="nl">relais module (2)</name>
+        <name lang="en">2 relays module</name>
+        <name lang="pl">Moduł przekaźnikowy</name>
+        <name lang="cs">Reléový modul (2 relé)</name>
+        <name lang="fr">Module 1 rele</name>
+        <name lang="it">Modulo 2 relais</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1"/>
+        <elementInformation name="machine_manufacturer_reference" show="1"/>
+        <elementInformation name="unity" show="1"/>
+        <elementInformation name="quantity" show="1"/>
+        <elementInformation name="plant" show="1"/>
+        <elementInformation name="supplier" show="1"/>
+        <elementInformation name="label" show="1"/>
+        <elementInformation name="comment" show="1"/>
+        <elementInformation name="description" show="1"/>
+        <elementInformation name="manufacturer_reference" show="1"/>
+        <elementInformation name="manufacturer" show="1">Arduino</elementInformation>
+    </elementInformations>
+    <informations>Charles Ferrand&#xd;
+novembre 2013</informations>
+    <description>
+        <circle y="-19" x="3" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="true" diameter="2"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10" y1="-28.5543" end2="none" length1="1.5" x2="-10" length2="1.5" end1="none" y2="-18.5662"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10" y1="-18" end2="none" length1="1.5" x2="-5" length2="1.5" end1="none" y2="-18"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="5" y1="-18" end2="none" length1="1.5" x2="10" length2="1.5" end1="none" y2="-18"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="10" y1="-18.5203" end2="none" length1="1.5" x2="10" length2="1.5" end1="none" y2="-27.5967"/>
+        <circle y="-19" x="-5" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="true" diameter="2"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y1="-22" end2="none" length1="1.5" x2="-3" length2="1.5" end1="none" y2="-17"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y1="-30" end2="none" length1="1.5" x2="0" length2="1.5" end1="none" y2="-22"/>
+        <text y="24" x="-3" color="#000000" text="+" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text y="26" x="7" color="#000000" text="-" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <rect y="-15" ry="0" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" width="20" height="16"/>
+        <text y="0" x="25" color="#000000" text="Relay" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text y="19" x="-13" color="#000000" text="SGN" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text y="-6" x="-6" color="#000000" text="R1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <rect y="-35" ry="0" x="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" width="70" height="80"/>
+        <dynamic_text y="42" x="-8" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{0f7c2e52-9756-4bb5-9572-bc617d1a72b6}" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" z="28" text_from="ElementInfo" text_width="-1">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal y="-30" x="0" name="" uuid="{78a7ffc3-5e39-4a66-945d-eb73fb45dd96}" orientation="n"/>
+        <terminal y="-30" x="-10" name="" uuid="{c8e62d26-8bd8-4001-8be3-1e6c56d0a48c}" orientation="n"/>
+        <terminal y="40" x="10" name="" uuid="{186f9ded-e339-4a79-a99d-d56ccfd496ed}" orientation="s"/>
+        <terminal y="40" x="-10" name="" uuid="{d87649d4-76e6-4b61-932a-198d66731e6f}" orientation="s"/>
+        <terminal y="40" x="0" name="" uuid="{adc0ab07-731e-499e-a1d2-b419d47343e4}" orientation="s"/>
+        <terminal y="-30" x="10" name="" uuid="{ecbf8c93-314c-4b76-a500-dd4218b17aee}" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,29 @@
+<definition hotspot_x="29" hotspot_y="15" width="60" version="0.51" type="element" orientation="dyyy" link_type="simple" height="30">
+    <uuid uuid="{5a9456ed-f45a-4bd0-8216-79d9f3de2c75}"/>
+    <names>
+        <name lang="el">Βολτόμετρο οριζόντιο</name>
+        <name lang="ar">فولتمتر أفقي</name>
+        <name lang="pl">Woltomierz (poziomo)</name>
+        <name lang="en">Tansmitter</name>
+        <name lang="fr">Voltmètre horizontal</name>
+        <name lang="ru">Вольтметр (горизонтальный)</name>
+        <name lang="es">Voltímetro horizontal</name>
+        <name lang="nl">Voltmeter</name>
+        <name lang="pt">Transmissor</name>
+        <name lang="cs">Voltmetr, vodorovný</name>
+        <name lang="de">Voltmeter waagerecht</name>
+        <name lang="it">Volmetro orizzontale</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-8" y2="9" x1="5" x2="-4" end1="none" end2="none" antialias="false"/>
+        <input rotate="true" x="9" y="-13.5" text="_" tagg="label" size="9"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" y2="0" x1="10" x2="21" end1="none" end2="none" antialias="false"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" y2="0" x1="-21" x2="-10" end1="none" end2="none" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" x="-10" y="-10" antialias="true"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" y2="-8" x1="5" x2="-5" end1="none" end2="none" antialias="false"/>
+        <terminal x="-21" y="0" orientation="w"/>
+        <terminal x="21" y="0" orientation="e"/>
+    </description>
+</definition>

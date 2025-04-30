@@ -1,0 +1,92 @@
+<definition width="830" type="element" orientation="dyyy" link_type="simple" hotspot_x="414" hotspot_y="35" height="110" version="0.51">
+    <uuid uuid="{34efc799-2a9d-4aff-a0e4-73b33937fc5f}"/>
+    <names>
+        <name lang="en">Advantec USB-4750</name>
+        <name lang="pt">Advantec USB-4750</name>
+    </names>
+    <informations></informations>
+    <description>
+        <input x="372" y="54.5" text="GND" tagg="label" size="9" rotate="true"/>
+        <input x="371" y="-15.5" text="GND" tagg="label" size="9" rotate="true"/>
+        <input x="84.891" y="54.5" text="ID06" tagg="label" size="9" rotate="true"/>
+        <input x="83.891" y="-15.5" text="DO10" tagg="label" size="9" rotate="true"/>
+        <input x="2.86" y="54.5" text="GND" tagg="label" size="9" rotate="true"/>
+        <input x="1.86" y="-15.5" text="DO08" tagg="label" size="9" rotate="true"/>
+        <input x="43.875" y="54.5" text="ID07" tagg="label" size="9" rotate="true"/>
+        <input x="42.875" y="-15.5" text="DO9" tagg="label" size="9" rotate="true"/>
+        <input x="125.906" y="54.5" text="ID05" tagg="label" size="9" rotate="true"/>
+        <input x="124.906" y="-15.5" text="DO11" tagg="label" size="9" rotate="true"/>
+        <input x="330.985" y="54.5" text="ID00" tagg="label" size="9" rotate="true"/>
+        <input x="329.985" y="-15.5" text="COM2" tagg="label" size="9" rotate="true"/>
+        <input x="166.922" y="54.5" text="ID04" tagg="label" size="9" rotate="true"/>
+        <input x="165.922" y="-15.5" text="DO12" tagg="label" size="9" rotate="true"/>
+        <input x="288.969" y="-15.5" text="DO15" tagg="label" size="9" rotate="true"/>
+        <input x="289.969" y="54.5" text="ID01" tagg="label" size="9" rotate="true"/>
+        <input x="206.937" y="-15.5" text="DO13" tagg="label" size="9" rotate="true"/>
+        <input x="207.937" y="54.5" text="ID03" tagg="label" size="9" rotate="true"/>
+        <input x="248.953" y="54.5" text="ID02" tagg="label" size="9" rotate="true"/>
+        <input x="247.953" y="-15.5" text="DO14" tagg="label" size="9" rotate="true"/>
+        <input x="-38.156" y="54.5" text="GND" tagg="label" size="9" rotate="true"/>
+        <input x="-39.156" y="-15.5" text="GND" tagg="label" size="9" rotate="true"/>
+        <input x="-284.734" y="-15.5" text="DO3" tagg="label" size="9" rotate="true"/>
+        <input x="-283.734" y="54.5" text="ID13" tagg="label" size="9" rotate="true"/>
+        <input x="-200.218" y="-15.5" text="DO5" tagg="label" size="9" rotate="true"/>
+        <input x="-199.218" y="54.5" text="ID11" tagg="label" size="9" rotate="true"/>
+        <input x="-79.172" y="54.5" text="ID08" tagg="label" size="9" rotate="true"/>
+        <input x="-80.172" y="-15.5" text="COM1" tagg="label" size="9" rotate="true"/>
+        <input x="-161.203" y="54.5" text="ID10" tagg="label" size="9" rotate="true"/>
+        <input x="-162.203" y="-15.5" text="DO6" tagg="label" size="9" rotate="true"/>
+        <input x="-121.187" y="-15.5" text="DO7" tagg="label" size="9" rotate="true"/>
+        <input x="-120.187" y="54.5" text="ID09" tagg="label" size="9" rotate="true"/>
+        <input x="-243.234" y="54.5" text="ID12" tagg="label" size="9" rotate="true"/>
+        <input x="-244.234" y="-15.5" text="DO4" tagg="label" size="9" rotate="true"/>
+        <input x="-325.234" y="-15.5" text="DO2" tagg="label" size="9" rotate="true"/>
+        <input x="-324.234" y="54.5" text="ID14" tagg="label" size="9" rotate="true"/>
+        <input x="-364.734" y="54.5" text="ID15" tagg="label" size="9" rotate="true"/>
+        <input x="-365.734" y="-15.5" text="DO1" tagg="label" size="9" rotate="true"/>
+        <input x="-405.234" y="54.5" text="GND" tagg="label" size="9" rotate="true"/>
+        <rect width="820" x="-409" y="-28" antialias="false" height="94.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <input x="-406.234" y="-15.5" text="DO0" tagg="label" size="9" rotate="true"/>
+        <text x="-59" y="21" text="Advantec USB-4750" size="9"/>
+        <terminal x="-389" y="-28" orientation="n"/>
+        <terminal x="-348.5" y="-28" orientation="n"/>
+        <terminal x="-308" y="-28" orientation="n"/>
+        <terminal x="-267.5" y="-28" orientation="n"/>
+        <terminal x="-227" y="-28" orientation="n"/>
+        <terminal x="-182.984" y="-28" orientation="n"/>
+        <terminal x="-144.969" y="-28" orientation="n"/>
+        <terminal x="-103.953" y="-28" orientation="n"/>
+        <terminal x="-62.938" y="-28" orientation="n"/>
+        <terminal x="-21.922" y="-28" orientation="n"/>
+        <terminal x="19.094" y="-28" orientation="n"/>
+        <terminal x="60.109" y="-28" orientation="n"/>
+        <terminal x="101.125" y="-28" orientation="n"/>
+        <terminal x="142.14" y="-28" orientation="n"/>
+        <terminal x="183.156" y="-28" orientation="n"/>
+        <terminal x="224.171" y="-28" orientation="n"/>
+        <terminal x="265.187" y="-28" orientation="n"/>
+        <terminal x="306.203" y="-28" orientation="n"/>
+        <terminal x="347.219" y="-28" orientation="n"/>
+        <terminal x="388.234" y="-28" orientation="n"/>
+        <terminal x="-388.47" y="66" orientation="s"/>
+        <terminal x="-347.97" y="66" orientation="s"/>
+        <terminal x="-307.47" y="66" orientation="s"/>
+        <terminal x="-266.97" y="66" orientation="s"/>
+        <terminal x="-226.47" y="66" orientation="s"/>
+        <terminal x="-182.45" y="66" orientation="s"/>
+        <terminal x="-144.44" y="66" orientation="s"/>
+        <terminal x="-103.42" y="66" orientation="s"/>
+        <terminal x="-62.41" y="66" orientation="s"/>
+        <terminal x="-21.39" y="66" orientation="s"/>
+        <terminal x="19.63" y="66" orientation="s"/>
+        <terminal x="60.64" y="66" orientation="s"/>
+        <terminal x="101.66" y="66" orientation="s"/>
+        <terminal x="142.67" y="66" orientation="s"/>
+        <terminal x="183.69" y="66" orientation="s"/>
+        <terminal x="224.7" y="66" orientation="s"/>
+        <terminal x="265.72" y="66" orientation="s"/>
+        <terminal x="306.74" y="66" orientation="s"/>
+        <terminal x="347.75" y="66" orientation="s"/>
+        <terminal x="388.77" y="66" orientation="s"/>
+    </description>
+</definition>
